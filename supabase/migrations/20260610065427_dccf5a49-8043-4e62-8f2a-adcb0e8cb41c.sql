@@ -1,0 +1,1 @@
+DROP POLICY IF EXISTS "public upload product image files" ON storage.objects;
